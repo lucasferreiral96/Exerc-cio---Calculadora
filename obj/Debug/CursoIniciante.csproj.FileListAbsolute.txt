@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\CursoIniciante\CursoIniciante\bin\Debug\CursoIniciante.exe.config
+C:\Users\Lucas\source\repos\CursoIniciante\CursoIniciante\bin\Debug\CursoIniciante.exe
+C:\Users\Lucas\source\repos\CursoIniciante\CursoIniciante\bin\Debug\CursoIniciante.pdb
+C:\Users\Lucas\source\repos\CursoIniciante\CursoIniciante\obj\Debug\CursoIniciante.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\CursoIniciante\CursoIniciante\obj\Debug\CursoIniciante.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\CursoIniciante\CursoIniciante\obj\Debug\CursoIniciante.exe
+C:\Users\Lucas\source\repos\CursoIniciante\CursoIniciante\obj\Debug\CursoIniciante.pdb
